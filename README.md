@@ -1,3 +1,9 @@
+*SITE VOLTADO PARA RESPONSIVIDADE*
+
+
+
+
+
 Vídeos da sessão vídeos:
 
         <li class="videos__item">
